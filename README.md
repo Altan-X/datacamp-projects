@@ -2,7 +2,7 @@
 Uploading my finished Datacamp projects in this repository.
 
 ## Old Projects [2022-2023]
-1. A Visualization of Nobel Prize Winners
+1. A Visual History of Nobel Prize Winners
 2. The GitHub History of the Scala Language
 
 ## New Projects [2023 - Present]
